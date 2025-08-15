@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: befff682bfab5154dad0d3c9302d7c15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7225553417518158592
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_0
+  - first:
+      213: 1018062680714655303
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_1
+  - first:
+      213: 1176359276372971034
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_2
+  - first:
+      213: 7562845635172025110
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_3
+  - first:
+      213: 8246096793370045788
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_4
+  - first:
+      213: -7809915604670978652
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_5
+  - first:
+      213: 1032433299123168686
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_6
+  - first:
+      213: 5385323100650948559
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_7
+  - first:
+      213: -2526239092153640155
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_8
+  - first:
+      213: -2712949598629354897
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_9
+  - first:
+      213: -2549427434882678937
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_10
+  - first:
+      213: -4370408849894358319
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_11
+  - first:
+      213: -5958267746964474406
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_12
+  - first:
+      213: 3157050091308663925
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_13
+  - first:
+      213: 5115141423427803621
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_14
+  - first:
+      213: 6224850173705045704
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_15
+  - first:
+      213: -4802676131665781169
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_16
+  - first:
+      213: 2733555787382058606
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_17
+  - first:
+      213: -5596978531482480508
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_18
+  - first:
+      213: -925363861555402633
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_19
+  - first:
+      213: 2670629748127622924
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_20
+  - first:
+      213: 4821953545782921171
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_21
+  - first:
+      213: 5898512254654185430
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_22
+  - first:
+      213: -8229278395018115837
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_23
+  - first:
+      213: 3903905452716222948
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_24
+  - first:
+      213: -3136663843425717115
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_25
+  - first:
+      213: 3512554057051190687
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_26
+  - first:
+      213: 7506684302142420637
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_27
+  - first:
+      213: -2574231297777809518
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_28
+  - first:
+      213: 5392740603403005621
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_29
+  - first:
+      213: 644895203067865432
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_30
+  - first:
+      213: 2175766605502454080
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_31
+  - first:
+      213: -3532398837629164040
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_32
+  - first:
+      213: -9042977369095717798
+    second: PC _ Computer - Stardew Valley - Environment - Bushes_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00397c4fc82564460800000000000000
+      internalID: 7225553417518158592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 306
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746341b3d92e02e00800000000000000
+      internalID: 1018062680714655303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 303
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e427c7784435010800000000000000
+      internalID: 1176359276372971034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 303
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613ca871900a4f860800000000000000
+      internalID: 7562845635172025110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d2f480855007270800000000000000
+      internalID: 8246096793370045788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 258
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a56ec1e22b9d9390800000000000000
+      internalID: -7809915604670978652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 258
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea565809d90f35e00800000000000000
+      internalID: 1032433299123168686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7410fc3d28cba40800000000000000
+      internalID: 5385323100650948559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 224
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b1a762eeef0fcd0800000000000000
+      internalID: -2526239092153640155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 224
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62a820c6baa95ad0800000000000000
+      internalID: -2712949598629354897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 224
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fbe23614d9e9cd0800000000000000
+      internalID: -2549427434882678937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2c2d27e403953c0800000000000000
+      internalID: -4370408849894358319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5f3896d0bff4da0800000000000000
+      internalID: -5958267746964474406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 128
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574419ec45810db20800000000000000
+      internalID: 3157050091308663925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9dc4ff502acf640800000000000000
+      internalID: 5115141423427803621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 128
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6c7b7904c136650800000000000000
+      internalID: 6224850173705045704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 66
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e50d00187795db0800000000000000
+      internalID: -4802676131665781169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 65
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eee90718a8fe520800000000000000
+      internalID: 2733555787382058606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 64
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480df7ffda98352b0800000000000000
+      internalID: -5596978531482480508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 64
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778a10088727823f0800000000000000
+      internalID: -925363861555402633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07ecb73b9bff0520800000000000000
+      internalID: 2670629748127622924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 65
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d783dbb3350be240800000000000000
+      internalID: 4821953545782921171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 64
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df73f9d4a9bbd150800000000000000
+      internalID: 5898512254654185430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 64
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305062b76eabbcd80800000000000000
+      internalID: -8229278395018115837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e96cd153557d2630800000000000000
+      internalID: 3903905452716222948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 33
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5847cc86ad45874d0800000000000000
+      internalID: -3136663843425717115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_26
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 32
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95b4e8fd491fb030800000000000000
+      internalID: 3512554057051190687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_27
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 32
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d963336c9991d2860800000000000000
+      internalID: 7506684302142420637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 36
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297c246064e764cd0800000000000000
+      internalID: -2574231297777809518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 34
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be69afb10dd6da40800000000000000
+      internalID: 5392740603403005621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 33
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859a63835c023f800800000000000000
+      internalID: 644895203067865432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 33
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04991233330e13e10800000000000000
+      internalID: 2175766605502454080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f56c1ef8f56afec0800000000000000
+      internalID: -3532398837629164040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Environment - Bushes_33
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 97
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c372b9ef3e08280800000000000000
+      internalID: -9042977369095717798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Stardew Valley - Environment - Bushes_0: 7225553417518158592
+      PC _ Computer - Stardew Valley - Environment - Bushes_1: 1018062680714655303
+      PC _ Computer - Stardew Valley - Environment - Bushes_10: -2549427434882678937
+      PC _ Computer - Stardew Valley - Environment - Bushes_11: -4370408849894358319
+      PC _ Computer - Stardew Valley - Environment - Bushes_12: -5958267746964474406
+      PC _ Computer - Stardew Valley - Environment - Bushes_13: 3157050091308663925
+      PC _ Computer - Stardew Valley - Environment - Bushes_14: 5115141423427803621
+      PC _ Computer - Stardew Valley - Environment - Bushes_15: 6224850173705045704
+      PC _ Computer - Stardew Valley - Environment - Bushes_16: -4802676131665781169
+      PC _ Computer - Stardew Valley - Environment - Bushes_17: 2733555787382058606
+      PC _ Computer - Stardew Valley - Environment - Bushes_18: -5596978531482480508
+      PC _ Computer - Stardew Valley - Environment - Bushes_19: -925363861555402633
+      PC _ Computer - Stardew Valley - Environment - Bushes_2: 1176359276372971034
+      PC _ Computer - Stardew Valley - Environment - Bushes_20: 2670629748127622924
+      PC _ Computer - Stardew Valley - Environment - Bushes_21: 4821953545782921171
+      PC _ Computer - Stardew Valley - Environment - Bushes_22: 5898512254654185430
+      PC _ Computer - Stardew Valley - Environment - Bushes_23: -8229278395018115837
+      PC _ Computer - Stardew Valley - Environment - Bushes_24: 3903905452716222948
+      PC _ Computer - Stardew Valley - Environment - Bushes_25: -3136663843425717115
+      PC _ Computer - Stardew Valley - Environment - Bushes_26: 3512554057051190687
+      PC _ Computer - Stardew Valley - Environment - Bushes_27: 7506684302142420637
+      PC _ Computer - Stardew Valley - Environment - Bushes_28: -2574231297777809518
+      PC _ Computer - Stardew Valley - Environment - Bushes_29: 5392740603403005621
+      PC _ Computer - Stardew Valley - Environment - Bushes_3: 7562845635172025110
+      PC _ Computer - Stardew Valley - Environment - Bushes_30: 644895203067865432
+      PC _ Computer - Stardew Valley - Environment - Bushes_31: 2175766605502454080
+      PC _ Computer - Stardew Valley - Environment - Bushes_32: -3532398837629164040
+      PC _ Computer - Stardew Valley - Environment - Bushes_33: -9042977369095717798
+      PC _ Computer - Stardew Valley - Environment - Bushes_4: 8246096793370045788
+      PC _ Computer - Stardew Valley - Environment - Bushes_5: -7809915604670978652
+      PC _ Computer - Stardew Valley - Environment - Bushes_6: 1032433299123168686
+      PC _ Computer - Stardew Valley - Environment - Bushes_7: 5385323100650948559
+      PC _ Computer - Stardew Valley - Environment - Bushes_8: -2526239092153640155
+      PC _ Computer - Stardew Valley - Environment - Bushes_9: -2712949598629354897
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

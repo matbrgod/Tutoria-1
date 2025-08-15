@@ -1,0 +1,5408 @@
+fileFormatVersion: 2
+guid: 877aa5be680d9e34ca3ccb50dbd1216c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2664439367755212653
+    second: PC _ Computer - Stardew Valley - Animals - Critters_0
+  - first:
+      213: 4500794842932045762
+    second: PC _ Computer - Stardew Valley - Animals - Critters_1
+  - first:
+      213: -526499413444109965
+    second: PC _ Computer - Stardew Valley - Animals - Critters_2
+  - first:
+      213: -5644112277155659993
+    second: PC _ Computer - Stardew Valley - Animals - Critters_3
+  - first:
+      213: -6829842628753542221
+    second: PC _ Computer - Stardew Valley - Animals - Critters_4
+  - first:
+      213: -891707907715625566
+    second: PC _ Computer - Stardew Valley - Animals - Critters_5
+  - first:
+      213: 1434479565506932055
+    second: PC _ Computer - Stardew Valley - Animals - Critters_6
+  - first:
+      213: 6910208308072629485
+    second: PC _ Computer - Stardew Valley - Animals - Critters_7
+  - first:
+      213: 6340887340882290365
+    second: PC _ Computer - Stardew Valley - Animals - Critters_8
+  - first:
+      213: -5466110228561287343
+    second: PC _ Computer - Stardew Valley - Animals - Critters_9
+  - first:
+      213: -8259436544084852503
+    second: PC _ Computer - Stardew Valley - Animals - Critters_10
+  - first:
+      213: 4531085002123699353
+    second: PC _ Computer - Stardew Valley - Animals - Critters_11
+  - first:
+      213: -6848526129344220126
+    second: PC _ Computer - Stardew Valley - Animals - Critters_12
+  - first:
+      213: 986770639747261540
+    second: PC _ Computer - Stardew Valley - Animals - Critters_13
+  - first:
+      213: -2242336748381823266
+    second: PC _ Computer - Stardew Valley - Animals - Critters_14
+  - first:
+      213: -5328124117167098404
+    second: PC _ Computer - Stardew Valley - Animals - Critters_15
+  - first:
+      213: 6455549362216896015
+    second: PC _ Computer - Stardew Valley - Animals - Critters_16
+  - first:
+      213: 4652800562622118044
+    second: PC _ Computer - Stardew Valley - Animals - Critters_17
+  - first:
+      213: -1283237917104718122
+    second: PC _ Computer - Stardew Valley - Animals - Critters_18
+  - first:
+      213: 6095702596661185665
+    second: PC _ Computer - Stardew Valley - Animals - Critters_19
+  - first:
+      213: 4794496753366267701
+    second: PC _ Computer - Stardew Valley - Animals - Critters_20
+  - first:
+      213: -1916501106416574764
+    second: PC _ Computer - Stardew Valley - Animals - Critters_21
+  - first:
+      213: -6809427757620398811
+    second: PC _ Computer - Stardew Valley - Animals - Critters_22
+  - first:
+      213: 7637826095687363064
+    second: PC _ Computer - Stardew Valley - Animals - Critters_23
+  - first:
+      213: -6956340336102845608
+    second: PC _ Computer - Stardew Valley - Animals - Critters_24
+  - first:
+      213: -7799525501772290849
+    second: PC _ Computer - Stardew Valley - Animals - Critters_25
+  - first:
+      213: 5663283158919507504
+    second: PC _ Computer - Stardew Valley - Animals - Critters_26
+  - first:
+      213: -7582219067313328777
+    second: PC _ Computer - Stardew Valley - Animals - Critters_27
+  - first:
+      213: -7015297687926624899
+    second: PC _ Computer - Stardew Valley - Animals - Critters_28
+  - first:
+      213: 9023664709135183694
+    second: PC _ Computer - Stardew Valley - Animals - Critters_29
+  - first:
+      213: 1424443990902179678
+    second: PC _ Computer - Stardew Valley - Animals - Critters_30
+  - first:
+      213: -4510998722785473159
+    second: PC _ Computer - Stardew Valley - Animals - Critters_31
+  - first:
+      213: 4176955570392571823
+    second: PC _ Computer - Stardew Valley - Animals - Critters_32
+  - first:
+      213: 4453061634637519783
+    second: PC _ Computer - Stardew Valley - Animals - Critters_33
+  - first:
+      213: -3202958299758011164
+    second: PC _ Computer - Stardew Valley - Animals - Critters_34
+  - first:
+      213: 4031090149429943688
+    second: PC _ Computer - Stardew Valley - Animals - Critters_35
+  - first:
+      213: -7828522767895050121
+    second: PC _ Computer - Stardew Valley - Animals - Critters_36
+  - first:
+      213: 6728128845531597274
+    second: PC _ Computer - Stardew Valley - Animals - Critters_37
+  - first:
+      213: 4932458630884399901
+    second: PC _ Computer - Stardew Valley - Animals - Critters_38
+  - first:
+      213: 836650534687527930
+    second: PC _ Computer - Stardew Valley - Animals - Critters_39
+  - first:
+      213: -5947946213112860789
+    second: PC _ Computer - Stardew Valley - Animals - Critters_40
+  - first:
+      213: -6558861530434571019
+    second: PC _ Computer - Stardew Valley - Animals - Critters_41
+  - first:
+      213: 6088831981902804319
+    second: PC _ Computer - Stardew Valley - Animals - Critters_42
+  - first:
+      213: 5469457420794756633
+    second: PC _ Computer - Stardew Valley - Animals - Critters_43
+  - first:
+      213: -3406869896159414341
+    second: PC _ Computer - Stardew Valley - Animals - Critters_44
+  - first:
+      213: -6554225460897983501
+    second: PC _ Computer - Stardew Valley - Animals - Critters_45
+  - first:
+      213: -523580277593532944
+    second: PC _ Computer - Stardew Valley - Animals - Critters_46
+  - first:
+      213: 5626622556757739669
+    second: PC _ Computer - Stardew Valley - Animals - Critters_47
+  - first:
+      213: 9212487099886202325
+    second: PC _ Computer - Stardew Valley - Animals - Critters_48
+  - first:
+      213: -6239928324997214194
+    second: PC _ Computer - Stardew Valley - Animals - Critters_49
+  - first:
+      213: -3086852158173334578
+    second: PC _ Computer - Stardew Valley - Animals - Critters_50
+  - first:
+      213: 8221803974877540748
+    second: PC _ Computer - Stardew Valley - Animals - Critters_51
+  - first:
+      213: 4375834182427991674
+    second: PC _ Computer - Stardew Valley - Animals - Critters_52
+  - first:
+      213: -1391405909220372820
+    second: PC _ Computer - Stardew Valley - Animals - Critters_53
+  - first:
+      213: -3569787874354223861
+    second: PC _ Computer - Stardew Valley - Animals - Critters_54
+  - first:
+      213: -1872831316283942522
+    second: PC _ Computer - Stardew Valley - Animals - Critters_55
+  - first:
+      213: -1384820018428168397
+    second: PC _ Computer - Stardew Valley - Animals - Critters_56
+  - first:
+      213: -5374172777280292117
+    second: PC _ Computer - Stardew Valley - Animals - Critters_57
+  - first:
+      213: -514484708353174984
+    second: PC _ Computer - Stardew Valley - Animals - Critters_58
+  - first:
+      213: -7175141252109592052
+    second: PC _ Computer - Stardew Valley - Animals - Critters_59
+  - first:
+      213: 5130161334930721225
+    second: PC _ Computer - Stardew Valley - Animals - Critters_60
+  - first:
+      213: 2121871135615241335
+    second: PC _ Computer - Stardew Valley - Animals - Critters_61
+  - first:
+      213: -7735096938878184945
+    second: PC _ Computer - Stardew Valley - Animals - Critters_62
+  - first:
+      213: -4483389016447991636
+    second: PC _ Computer - Stardew Valley - Animals - Critters_63
+  - first:
+      213: 402910265512433198
+    second: PC _ Computer - Stardew Valley - Animals - Critters_64
+  - first:
+      213: -7178725607399156031
+    second: PC _ Computer - Stardew Valley - Animals - Critters_65
+  - first:
+      213: -2345203885152703683
+    second: PC _ Computer - Stardew Valley - Animals - Critters_66
+  - first:
+      213: -1500645849331113719
+    second: PC _ Computer - Stardew Valley - Animals - Critters_67
+  - first:
+      213: 4667513852991009571
+    second: PC _ Computer - Stardew Valley - Animals - Critters_68
+  - first:
+      213: 5940760032894167685
+    second: PC _ Computer - Stardew Valley - Animals - Critters_69
+  - first:
+      213: -6062240781172741293
+    second: PC _ Computer - Stardew Valley - Animals - Critters_70
+  - first:
+      213: -3852911054041110974
+    second: PC _ Computer - Stardew Valley - Animals - Critters_71
+  - first:
+      213: -5559352555947802095
+    second: PC _ Computer - Stardew Valley - Animals - Critters_72
+  - first:
+      213: -5100204154250408158
+    second: PC _ Computer - Stardew Valley - Animals - Critters_73
+  - first:
+      213: -7471716767985823078
+    second: PC _ Computer - Stardew Valley - Animals - Critters_74
+  - first:
+      213: -2748985783034004852
+    second: PC _ Computer - Stardew Valley - Animals - Critters_75
+  - first:
+      213: 6088953079444206284
+    second: PC _ Computer - Stardew Valley - Animals - Critters_76
+  - first:
+      213: 439624832043617683
+    second: PC _ Computer - Stardew Valley - Animals - Critters_77
+  - first:
+      213: -4931783930708810321
+    second: PC _ Computer - Stardew Valley - Animals - Critters_78
+  - first:
+      213: -8965608464308331460
+    second: PC _ Computer - Stardew Valley - Animals - Critters_79
+  - first:
+      213: 2719118537236685430
+    second: PC _ Computer - Stardew Valley - Animals - Critters_80
+  - first:
+      213: -2354060540397316969
+    second: PC _ Computer - Stardew Valley - Animals - Critters_81
+  - first:
+      213: -8766532393291732208
+    second: PC _ Computer - Stardew Valley - Animals - Critters_82
+  - first:
+      213: 6117391450449055359
+    second: PC _ Computer - Stardew Valley - Animals - Critters_83
+  - first:
+      213: 8495741632916872935
+    second: PC _ Computer - Stardew Valley - Animals - Critters_84
+  - first:
+      213: 8903966751334314052
+    second: PC _ Computer - Stardew Valley - Animals - Critters_85
+  - first:
+      213: -421107511977796027
+    second: PC _ Computer - Stardew Valley - Animals - Critters_86
+  - first:
+      213: 6889780931936940420
+    second: PC _ Computer - Stardew Valley - Animals - Critters_87
+  - first:
+      213: 6077268408412702720
+    second: PC _ Computer - Stardew Valley - Animals - Critters_88
+  - first:
+      213: 4646332200533095031
+    second: PC _ Computer - Stardew Valley - Animals - Critters_89
+  - first:
+      213: -4602518861570274681
+    second: PC _ Computer - Stardew Valley - Animals - Critters_90
+  - first:
+      213: 5232549910975691587
+    second: PC _ Computer - Stardew Valley - Animals - Critters_91
+  - first:
+      213: 549950758243874711
+    second: PC _ Computer - Stardew Valley - Animals - Critters_92
+  - first:
+      213: 1821650447928104401
+    second: PC _ Computer - Stardew Valley - Animals - Critters_93
+  - first:
+      213: 5721676416274387552
+    second: PC _ Computer - Stardew Valley - Animals - Critters_94
+  - first:
+      213: -3323849090894944347
+    second: PC _ Computer - Stardew Valley - Animals - Critters_95
+  - first:
+      213: -1878201155250860728
+    second: PC _ Computer - Stardew Valley - Animals - Critters_96
+  - first:
+      213: -8379449932959001022
+    second: PC _ Computer - Stardew Valley - Animals - Critters_97
+  - first:
+      213: -6642547071629268323
+    second: PC _ Computer - Stardew Valley - Animals - Critters_98
+  - first:
+      213: 3013234142086225603
+    second: PC _ Computer - Stardew Valley - Animals - Critters_99
+  - first:
+      213: -4692820520030485067
+    second: PC _ Computer - Stardew Valley - Animals - Critters_100
+  - first:
+      213: 1443807510765192181
+    second: PC _ Computer - Stardew Valley - Animals - Critters_101
+  - first:
+      213: 5470346081410513573
+    second: PC _ Computer - Stardew Valley - Animals - Critters_102
+  - first:
+      213: 2852240289052558660
+    second: PC _ Computer - Stardew Valley - Animals - Critters_103
+  - first:
+      213: -4094673149690300573
+    second: PC _ Computer - Stardew Valley - Animals - Critters_104
+  - first:
+      213: -2344629092508879883
+    second: PC _ Computer - Stardew Valley - Animals - Critters_105
+  - first:
+      213: 7903127355123399654
+    second: PC _ Computer - Stardew Valley - Animals - Critters_106
+  - first:
+      213: 8927418689950723513
+    second: PC _ Computer - Stardew Valley - Animals - Critters_107
+  - first:
+      213: -535529040483344736
+    second: PC _ Computer - Stardew Valley - Animals - Critters_108
+  - first:
+      213: 3358541967289525205
+    second: PC _ Computer - Stardew Valley - Animals - Critters_109
+  - first:
+      213: -8784543139107767833
+    second: PC _ Computer - Stardew Valley - Animals - Critters_110
+  - first:
+      213: -3330490468506029534
+    second: PC _ Computer - Stardew Valley - Animals - Critters_111
+  - first:
+      213: -5311936479138913012
+    second: PC _ Computer - Stardew Valley - Animals - Critters_112
+  - first:
+      213: 5932460559336669437
+    second: PC _ Computer - Stardew Valley - Animals - Critters_113
+  - first:
+      213: -6186979336072998794
+    second: PC _ Computer - Stardew Valley - Animals - Critters_114
+  - first:
+      213: -1035999178786620334
+    second: PC _ Computer - Stardew Valley - Animals - Critters_115
+  - first:
+      213: 8983038201102236239
+    second: PC _ Computer - Stardew Valley - Animals - Critters_116
+  - first:
+      213: 477013580197820005
+    second: PC _ Computer - Stardew Valley - Animals - Critters_117
+  - first:
+      213: -7252338091462659262
+    second: PC _ Computer - Stardew Valley - Animals - Critters_118
+  - first:
+      213: 7744285686344955237
+    second: PC _ Computer - Stardew Valley - Animals - Critters_119
+  - first:
+      213: -4842790860844748412
+    second: PC _ Computer - Stardew Valley - Animals - Critters_120
+  - first:
+      213: 7796586580564022603
+    second: PC _ Computer - Stardew Valley - Animals - Critters_121
+  - first:
+      213: -4855423857709795392
+    second: PC _ Computer - Stardew Valley - Animals - Critters_122
+  - first:
+      213: -2359930482690886470
+    second: PC _ Computer - Stardew Valley - Animals - Critters_123
+  - first:
+      213: -6709227817191725493
+    second: PC _ Computer - Stardew Valley - Animals - Critters_124
+  - first:
+      213: -8779665479901669278
+    second: PC _ Computer - Stardew Valley - Animals - Critters_125
+  - first:
+      213: -3108388496731599937
+    second: PC _ Computer - Stardew Valley - Animals - Critters_126
+  - first:
+      213: -3069958591847974629
+    second: PC _ Computer - Stardew Valley - Animals - Critters_127
+  - first:
+      213: 6160885533735896355
+    second: PC _ Computer - Stardew Valley - Animals - Critters_128
+  - first:
+      213: -8201757888827076666
+    second: PC _ Computer - Stardew Valley - Animals - Critters_129
+  - first:
+      213: -6044634530538547603
+    second: PC _ Computer - Stardew Valley - Animals - Critters_130
+  - first:
+      213: 3906240047695496204
+    second: PC _ Computer - Stardew Valley - Animals - Critters_131
+  - first:
+      213: -6973174729664863409
+    second: PC _ Computer - Stardew Valley - Animals - Critters_132
+  - first:
+      213: 8257017827845124089
+    second: PC _ Computer - Stardew Valley - Animals - Critters_133
+  - first:
+      213: -4454028878974882051
+    second: PC _ Computer - Stardew Valley - Animals - Critters_134
+  - first:
+      213: 28230399759648993
+    second: PC _ Computer - Stardew Valley - Animals - Critters_135
+  - first:
+      213: 5551544093583395573
+    second: PC _ Computer - Stardew Valley - Animals - Critters_136
+  - first:
+      213: 5193264540150916831
+    second: PC _ Computer - Stardew Valley - Animals - Critters_137
+  - first:
+      213: 4533416178447310679
+    second: PC _ Computer - Stardew Valley - Animals - Critters_138
+  - first:
+      213: -1354981890757481469
+    second: PC _ Computer - Stardew Valley - Animals - Critters_139
+  - first:
+      213: 4301784686034934858
+    second: PC _ Computer - Stardew Valley - Animals - Critters_140
+  - first:
+      213: -8100331794553759754
+    second: PC _ Computer - Stardew Valley - Animals - Critters_141
+  - first:
+      213: -1786685188696945470
+    second: PC _ Computer - Stardew Valley - Animals - Critters_142
+  - first:
+      213: -9165189351304805113
+    second: PC _ Computer - Stardew Valley - Animals - Critters_143
+  - first:
+      213: -4881824281102039102
+    second: PC _ Computer - Stardew Valley - Animals - Critters_144
+  - first:
+      213: -5738709639380270043
+    second: PC _ Computer - Stardew Valley - Animals - Critters_145
+  - first:
+      213: 446138223956715047
+    second: PC _ Computer - Stardew Valley - Animals - Critters_146
+  - first:
+      213: -6340959913869982929
+    second: PC _ Computer - Stardew Valley - Animals - Critters_147
+  - first:
+      213: -8775572093827768944
+    second: PC _ Computer - Stardew Valley - Animals - Critters_148
+  - first:
+      213: -8473088000022740785
+    second: PC _ Computer - Stardew Valley - Animals - Critters_149
+  - first:
+      213: 4783982161632242976
+    second: PC _ Computer - Stardew Valley - Animals - Critters_150
+  - first:
+      213: -4669156953171786802
+    second: PC _ Computer - Stardew Valley - Animals - Critters_151
+  - first:
+      213: 1100817620790566266
+    second: PC _ Computer - Stardew Valley - Animals - Critters_152
+  - first:
+      213: -8558454712688700728
+    second: PC _ Computer - Stardew Valley - Animals - Critters_153
+  - first:
+      213: -81438264733691690
+    second: PC _ Computer - Stardew Valley - Animals - Critters_154
+  - first:
+      213: 8982933137775434956
+    second: PC _ Computer - Stardew Valley - Animals - Critters_155
+  - first:
+      213: 836713290980039037
+    second: PC _ Computer - Stardew Valley - Animals - Critters_156
+  - first:
+      213: -1912995734083698977
+    second: PC _ Computer - Stardew Valley - Animals - Critters_157
+  - first:
+      213: 4372517017694931451
+    second: PC _ Computer - Stardew Valley - Animals - Critters_158
+  - first:
+      213: -7447227963385653243
+    second: PC _ Computer - Stardew Valley - Animals - Critters_159
+  - first:
+      213: -3619807232291510443
+    second: PC _ Computer - Stardew Valley - Animals - Critters_160
+  - first:
+      213: -7020464226344108258
+    second: PC _ Computer - Stardew Valley - Animals - Critters_161
+  - first:
+      213: 3025428981484039280
+    second: PC _ Computer - Stardew Valley - Animals - Critters_162
+  - first:
+      213: -5519659072885679430
+    second: PC _ Computer - Stardew Valley - Animals - Critters_163
+  - first:
+      213: -1014522521801747747
+    second: PC _ Computer - Stardew Valley - Animals - Critters_164
+  - first:
+      213: 621172520963813722
+    second: PC _ Computer - Stardew Valley - Animals - Critters_165
+  - first:
+      213: 7737967168741247884
+    second: PC _ Computer - Stardew Valley - Animals - Critters_166
+  - first:
+      213: 6126020133260003119
+    second: PC _ Computer - Stardew Valley - Animals - Critters_167
+  - first:
+      213: -640355458192486750
+    second: PC _ Computer - Stardew Valley - Animals - Critters_168
+  - first:
+      213: 6403226964530334570
+    second: PC _ Computer - Stardew Valley - Animals - Critters_169
+  - first:
+      213: -5784232223071497431
+    second: PC _ Computer - Stardew Valley - Animals - Critters_170
+  - first:
+      213: -2750149030678219785
+    second: PC _ Computer - Stardew Valley - Animals - Critters_171
+  - first:
+      213: -5112097387879225850
+    second: PC _ Computer - Stardew Valley - Animals - Critters_172
+  - first:
+      213: -5857830948857099834
+    second: PC _ Computer - Stardew Valley - Animals - Critters_173
+  - first:
+      213: 8709719269192596650
+    second: PC _ Computer - Stardew Valley - Animals - Critters_174
+  - first:
+      213: -4457055223229587636
+    second: PC _ Computer - Stardew Valley - Animals - Critters_175
+  - first:
+      213: 8534017066038696469
+    second: PC _ Computer - Stardew Valley - Animals - Critters_176
+  - first:
+      213: 1942698475125078773
+    second: PC _ Computer - Stardew Valley - Animals - Critters_177
+  - first:
+      213: -1033045970984356470
+    second: PC _ Computer - Stardew Valley - Animals - Critters_178
+  - first:
+      213: -7228236700645693943
+    second: PC _ Computer - Stardew Valley - Animals - Critters_179
+  - first:
+      213: -1384418054836015727
+    second: PC _ Computer - Stardew Valley - Animals - Critters_180
+  - first:
+      213: 1867062385661671987
+    second: PC _ Computer - Stardew Valley - Animals - Critters_181
+  - first:
+      213: -8446696099602247440
+    second: PC _ Computer - Stardew Valley - Animals - Critters_182
+  - first:
+      213: 6760613318540697042
+    second: PC _ Computer - Stardew Valley - Animals - Critters_183
+  - first:
+      213: -6719019140979944681
+    second: PC _ Computer - Stardew Valley - Animals - Critters_184
+  - first:
+      213: 427350083469438952
+    second: PC _ Computer - Stardew Valley - Animals - Critters_185
+  - first:
+      213: 5840378598364863704
+    second: PC _ Computer - Stardew Valley - Animals - Critters_186
+  - first:
+      213: -5264474748306193741
+    second: PC _ Computer - Stardew Valley - Animals - Critters_187
+  - first:
+      213: -641202731643086613
+    second: PC _ Computer - Stardew Valley - Animals - Critters_188
+  - first:
+      213: 6687654171268035188
+    second: PC _ Computer - Stardew Valley - Animals - Critters_189
+  - first:
+      213: 6706540008043635030
+    second: PC _ Computer - Stardew Valley - Animals - Critters_190
+  - first:
+      213: -3744530188683901088
+    second: PC _ Computer - Stardew Valley - Animals - Critters_191
+  - first:
+      213: 5772032161768347585
+    second: PC _ Computer - Stardew Valley - Animals - Critters_192
+  - first:
+      213: -5872362380538683877
+    second: PC _ Computer - Stardew Valley - Animals - Critters_193
+  - first:
+      213: -5015261925312741110
+    second: PC _ Computer - Stardew Valley - Animals - Critters_194
+  - first:
+      213: -2689904933862996373
+    second: PC _ Computer - Stardew Valley - Animals - Critters_195
+  - first:
+      213: -2195342583996432880
+    second: PC _ Computer - Stardew Valley - Animals - Critters_196
+  - first:
+      213: -4608504994799731660
+    second: PC _ Computer - Stardew Valley - Animals - Critters_197
+  - first:
+      213: 833902994222228865
+    second: PC _ Computer - Stardew Valley - Animals - Critters_198
+  - first:
+      213: 7803626313233863144
+    second: PC _ Computer - Stardew Valley - Animals - Critters_199
+  - first:
+      213: 3786211964448652882
+    second: PC _ Computer - Stardew Valley - Animals - Critters_200
+  - first:
+      213: 6368114078733769254
+    second: PC _ Computer - Stardew Valley - Animals - Critters_201
+  - first:
+      213: 6818678911020320982
+    second: PC _ Computer - Stardew Valley - Animals - Critters_202
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 608
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39852670382060bd0800000000000000
+      internalID: -2664439367755212653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 608
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7efdb3019067e30800000000000000
+      internalID: 4500794842932045762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 608
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379563fa29f71b8f0800000000000000
+      internalID: -526499413444109965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 608
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f37b7a9c51ca1b0800000000000000
+      internalID: -5644112277155659993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 608
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b33351b0568731a0800000000000000
+      internalID: -6829842628753542221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 608
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad0435e16400a3f0800000000000000
+      internalID: -891707907715625566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 608
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75de89b809b48e310800000000000000
+      internalID: 1434479565506932055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 608
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de44f9628ddf5ef50800000000000000
+      internalID: 6910208308072629485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 608
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db66f0ae07b5ff750800000000000000
+      internalID: 6340887340882290365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 608
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157a97335b97424b0800000000000000
+      internalID: -5466110228561287343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 577
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e041f83936906d80800000000000000
+      internalID: -8259436544084852503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 576
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994eeae7dc5a1ee30800000000000000
+      internalID: 4531085002123699353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 577
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224f47935c525f0a0800000000000000
+      internalID: -6848526129344220126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 578
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464abe03ba6b1bd00800000000000000
+      internalID: 986770639747261540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 576
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede95e59b9e91e0e0800000000000000
+      internalID: -2242336748381823266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 576
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd530155853be06b0800000000000000
+      internalID: -5328124117167098404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 576
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0600f421f7b69950800000000000000
+      internalID: 6455549362216896015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 576
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9834d9c571129040800000000000000
+      internalID: 4652800562622118044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 576
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de39acc9e5013ee0800000000000000
+      internalID: -1283237917104718122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_19
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 576
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c8a6a1739489450800000000000000
+      internalID: 6095702596661185665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 547
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537f8251569798240800000000000000
+      internalID: 4794496753366267701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 547
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de9564d5683765e0800000000000000
+      internalID: -1916501106416574764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 548
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525f957488d0081a0800000000000000
+      internalID: -6809427757620398811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 548
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f967a9fd520ff960800000000000000
+      internalID: 7637826095687363064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 543
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8535ed1125d167f90800000000000000
+      internalID: -6956340336102845608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 544
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4234a31e482c390800000000000000
+      internalID: -7799525501772290849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_26
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 544
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e69d51706089e40800000000000000
+      internalID: 5663283158919507504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 544
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d689b3eeb86c690800000000000000
+      internalID: -7582219067313328777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 544
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7da385ebe7a4ae90800000000000000
+      internalID: -7015297687926624899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 543
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f2b385e3f7a3d70800000000000000
+      internalID: 9023664709135183694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_30
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 530
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e570a204344a4c310800000000000000
+      internalID: 1424443990902179678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 531
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d812adf86b561c0800000000000000
+      internalID: -4510998722785473159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 532
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf96d7f5f687f930800000000000000
+      internalID: 4176955570392571823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 532
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab5d7f96f37ccd30800000000000000
+      internalID: 4453061634637519783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 530
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecd888756ecc83d0800000000000000
+      internalID: -3202958299758011164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 531
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d195e122f41f730800000000000000
+      internalID: 4031090149429943688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_36
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 532
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778ce8715008b5390800000000000000
+      internalID: -7828522767895050121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_37
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 532
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad948f0b98d1f5d50800000000000000
+      internalID: 6728128845531597274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 530
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b9c23ddfc937440800000000000000
+      internalID: 4932458630884399901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_39
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 531
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3d0318a316c9b00800000000000000
+      internalID: 836650534687527930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 532
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f2748ce66a47da0800000000000000
+      internalID: -5947946213112860789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_41
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 532
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4f87b303e3af4a0800000000000000
+      internalID: -6558861530434571019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 512
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55ba527d60ef7450800000000000000
+      internalID: 6088831981902804319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_43
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 485
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e7898bb8a67eb40800000000000000
+      internalID: 5469457420794756633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 516
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7327b31ed58b0d0800000000000000
+      internalID: -3406869896159414341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 514
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3da594ba6ba05a0800000000000000
+      internalID: -6554225460897983501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_46
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 514
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f513a6f28edbb8f0800000000000000
+      internalID: -523580277593532944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_47
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 515
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598cebc7767c51e40800000000000000
+      internalID: 5626622556757739669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_48
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 516
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dde59e153459df70800000000000000
+      internalID: 9212487099886202325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_49
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 516
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0094acbf325769a0800000000000000
+      internalID: -6239928324997214194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_50
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 514
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec33ee5215c4925d0800000000000000
+      internalID: -3086852158173334578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_51
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 515
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8178777727b91270800000000000000
+      internalID: 8221803974877540748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_52
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 516
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ed1a731061abc30800000000000000
+      internalID: 4375834182427991674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 516
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae4a8292bbb0bce0800000000000000
+      internalID: -1391405909220372820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_54
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 514
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05ae9187d0957ec0800000000000000
+      internalID: -3569787874354223861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_55
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 515
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6891bac27dd5206e0800000000000000
+      internalID: -1872831316283942522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_56
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 516
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3373db3c78128cce0800000000000000
+      internalID: -1384820018428168397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_57
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 516
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea32a8255a1b65b0800000000000000
+      internalID: -5374172777280292117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 499
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8321d3432ee2cd8f0800000000000000
+      internalID: -514484708353174984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_59
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 500
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a91c6fb07cc6c90800000000000000
+      internalID: -7175141252109592052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_60
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 500
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c94df8ad8ef13740800000000000000
+      internalID: 5130161334930721225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_61
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 501
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c40814e86627d10800000000000000
+      internalID: 2121871135615241335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_62
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 501
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0254fef05a67a490800000000000000
+      internalID: -7735096938878184945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_63
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 498
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0cabc817dc7c1c0800000000000000
+      internalID: -4483389016447991636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_64
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 499
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e261a3470cc679500800000000000000
+      internalID: 402910265512433198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_65
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 499
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c619f6381b006c90800000000000000
+      internalID: -7178725607399156031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 483
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b6b9bed79247fd0800000000000000
+      internalID: -2345203885152703683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_67
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 484
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90164f00d82ac2be0800000000000000
+      internalID: -1500645849331113719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_68
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 484
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3237eb7ae1756c040800000000000000
+      internalID: 4667513852991009571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_69
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 485
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58aae7046c1d17250800000000000000
+      internalID: 5940760032894167685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 485
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bef4fe0289edba0800000000000000
+      internalID: -6062240781172741293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_71
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 483
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24624b85fc5b78ac0800000000000000
+      internalID: -3852911054041110974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_72
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 484
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11242991e4639d2b0800000000000000
+      internalID: -5559352555947802095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 484
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fceeff75f6839b0800000000000000
+      internalID: -5100204154250408158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_74
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 480
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9210e5bf212f4890800000000000000
+      internalID: -7471716767985823078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_75
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 480
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ab8adbef3a9d9d0800000000000000
+      internalID: -2748985783034004852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_76
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 480
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2fa4aa09e408450800000000000000
+      internalID: 6088953079444206284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_77
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 480
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d866c947cd91600800000000000000
+      internalID: 439624832043617683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_78
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 479
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa52f1d05a8ce8bb0800000000000000
+      internalID: -4931783930708810321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_79
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 448
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c9aa18a92c39380800000000000000
+      internalID: -8965608464308331460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_80
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 451
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6722c2237ef3cb520800000000000000
+      internalID: 2719118537236685430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_81
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 452
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7949add2962b45fd0800000000000000
+      internalID: -2354060540397316969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 450
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b24e14c35075680800000000000000
+      internalID: -8766532393291732208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_83
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 447
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e0704ec1755e450800000000000000
+      internalID: 6117391450449055359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_84
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 447
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eed185b000f6e570800000000000000
+      internalID: 8495741632916872935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_85
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 448
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440bb29c59e319b70800000000000000
+      internalID: 8903966751334314052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_86
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 453
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e9050f2fce72af0800000000000000
+      internalID: -421107511977796027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_87
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4817c54014b6d9f50800000000000000
+      internalID: 6889780931936940420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_88
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 448
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00884203b6bc65450800000000000000
+      internalID: 6077268408412702720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_89
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 416
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772fb31e4861b7040800000000000000
+      internalID: 4646332200533095031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_90
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 416
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a81180b719020c0800000000000000
+      internalID: -4602518861570274681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_91
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 416
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b3539bb60cd9840800000000000000
+      internalID: 5232549910975691587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_92
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 416
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79735150d41d1a700800000000000000
+      internalID: 549950758243874711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_93
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 416
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d59fad4e6dc74910800000000000000
+      internalID: 1821650447928104401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_94
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 420
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062d3c7c26a776f40800000000000000
+      internalID: 5721676416274387552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_95
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 417
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7a332ccd05fd1d0800000000000000
+      internalID: -3323849090894944347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_96
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 416
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d4b8c100a4fe5e0800000000000000
+      internalID: -1878201155250860728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_97
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 415
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246dec4aea636bb80800000000000000
+      internalID: -8379449932959001022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_98
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 415
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ae9bfc1aee0d3a0800000000000000
+      internalID: -6642547071629268323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_99
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 399
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ced028cc7821d920800000000000000
+      internalID: 3013234142086225603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_100
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 401
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b54be4c990cfdeb0800000000000000
+      internalID: -4692820520030485067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_101
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 403
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3433b084f690410800000000000000
+      internalID: 1443807510765192181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_102
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 400
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa7ce427c29aeb40800000000000000
+      internalID: 5470346081410513573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_103
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 399
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445090b5e61359720800000000000000
+      internalID: 2852240289052558660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_104
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 399
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3673161077ccc27c0800000000000000
+      internalID: -4094673149690300573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_105
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 399
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f336f24344367fd0800000000000000
+      internalID: -2344629092508879883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_106
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 384
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb7dc8f47c8dad60800000000000000
+      internalID: 7903127355123399654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_107
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 389
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd22bfbfff84eb70800000000000000
+      internalID: 8927418689950723513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_108
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 383
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae951fcc2b6198f0800000000000000
+      internalID: -535529040483344736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_109
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 385
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3a88bff10fb9e20800000000000000
+      internalID: 3358541967289525205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_110
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 387
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9f267be88071680800000000000000
+      internalID: -8784543139107767833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_111
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 384
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222bfd88098b7c1d0800000000000000
+      internalID: -3330490468506029534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_112
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 383
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c056c738ae53846b0800000000000000
+      internalID: -5311936479138913012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_113
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 383
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0074b7275545250800000000000000
+      internalID: 5932460559336669437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_114
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 383
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670dfa8e21f632aa0800000000000000
+      internalID: -6186979336072998794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_115
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 383
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cb3d06c346f91f0800000000000000
+      internalID: -1035999178786620334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_116
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 383
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a767456a92aac70800000000000000
+      internalID: 8983038201102236239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_117
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 386
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5667ab8e251be9600800000000000000
+      internalID: 477013580197820005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_118
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 384
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243755b2ee48a5b90800000000000000
+      internalID: -7252338091462659262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565bbbdfcca397b60800000000000000
+      internalID: 7744285686344955237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_120
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 367
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48137d9ce53faccb0800000000000000
+      internalID: -4842790860844748412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_121
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 349
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45981bdf2a033c60800000000000000
+      internalID: 7796586580564022603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_122
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 367
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7304ff9b11e9cb0800000000000000
+      internalID: -4855423857709795392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_123
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 367
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4f79cbab7df3fd0800000000000000
+      internalID: -2359930482690886470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_124
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 354
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b462e17e8d804e2a0800000000000000
+      internalID: -6709227817191725493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_125
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 355
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26893bf33cc582680800000000000000
+      internalID: -8779665479901669278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_126
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 354
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb07649129ccd4d0800000000000000
+      internalID: -3108388496731599937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_127
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 355
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b193eb11de05565d0800000000000000
+      internalID: -3069958591847974629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325cb2c40ccdf7550800000000000000
+      internalID: 6160885533735896355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_129
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 336
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf44b6a7a08d2e80800000000000000
+      internalID: -8201757888827076666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_130
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 337
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66903a9be42d1ca0800000000000000
+      internalID: -6044634530538547603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_131
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 338
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c048b4290a0c53630800000000000000
+      internalID: 3906240047695496204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_132
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 338
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f436891678e4a3f90800000000000000
+      internalID: -6973174729664863409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_133
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 337
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffa6c487f1d69270800000000000000
+      internalID: 8257017827845124089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_134
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 338
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfeee51455c1032c0800000000000000
+      internalID: -4454028878974882051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_135
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 339
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e88a85266b446000800000000000000
+      internalID: 28230399759648993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_136
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 339
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fac4f490fb0b0d40800000000000000
+      internalID: 5551544093583395573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_137
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 338
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6e35c859e221840800000000000000
+      internalID: 5193264540150916831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_138
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 338
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f5c57cefde9ee30800000000000000
+      internalID: 4533416178447310679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_139
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 339
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c205c3623223de0800000000000000
+      internalID: -1354981890757481469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_140
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 339
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cd35f416203bb30800000000000000
+      internalID: 4301784686034934858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_141
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 338
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f712d67627d59f80800000000000000
+      internalID: -8100331794553759754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_142
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 338
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc4442894b6437e0800000000000000
+      internalID: -1786685188696945470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_143
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 339
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705c84028d4bec080800000000000000
+      internalID: -9165189351304805113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_144
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 339
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7490d6ea6404cb0800000000000000
+      internalID: -4881824281102039102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52401abecf10c50b0800000000000000
+      internalID: -5738709639380270043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_146
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 307
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726e9a7d950013600800000000000000
+      internalID: 446138223956715047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_147
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 306
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23c9cedd826008a0800000000000000
+      internalID: -6340959913869982929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_148
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 306
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d9096fca7e63680800000000000000
+      internalID: -8775572093827768944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_149
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 306
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc005083b5b896a80800000000000000
+      internalID: -8473088000022740785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_150
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 307
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d25ebed6e146240800000000000000
+      internalID: 4783982161632242976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_151
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 307
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec386a54d72d33fb0800000000000000
+      internalID: -4669156953171786802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_152
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 306
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d56b13bc3e64f00800000000000000
+      internalID: 1100817620790566266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_153
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 306
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c21cef88c24a3980800000000000000
+      internalID: -8558454712688700728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_154
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 306
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d09c67645caedef0800000000000000
+      internalID: -81438264733691690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_155
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 321
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc903e581ac9ac70800000000000000
+      internalID: 8982933137775434956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_156
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 322
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7996b71e4a9c9b00800000000000000
+      internalID: 836713290980039037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_157
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 322
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde7a1de38ca375e0800000000000000
+      internalID: -1912995734083698977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_158
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 325
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf98e0e9f0d4eac30800000000000000
+      internalID: 4372517017694931451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_159
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 326
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508da09df9126a890800000000000000
+      internalID: -7447227963385653243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_160
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 326
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557efd3308cd3cdc0800000000000000
+      internalID: -3619807232291510443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ffb6e6bfc429e90800000000000000
+      internalID: -7020464226344108258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_162
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 294
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c278611ab7cf920800000000000000
+      internalID: 3025428981484039280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_163
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 294
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba136f415b3663b0800000000000000
+      internalID: -5519659072885679430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_164
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 294
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd29f5f3421bbe1f0800000000000000
+      internalID: -1014522521801747747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_165
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 294
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a513840ed19de9800800000000000000
+      internalID: 621172520963813722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_166
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 294
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b05787428c26b60800000000000000
+      internalID: 7737967168741247884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_167
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f278ad9aadef30550800000000000000
+      internalID: 6126020133260003119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_168
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 290
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae44708a100d17f0800000000000000
+      internalID: -640355458192486750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_169
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 290
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b880d9ff4dcd850800000000000000
+      internalID: 6403226964530334570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_170
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 290
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923947570774abfa0800000000000000
+      internalID: -5784232223071497431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_171
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 289
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f33a0b070285d9d0800000000000000
+      internalID: -2750149030678219785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_172
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 290
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606a142c28e2e09b0800000000000000
+      internalID: -5112097387879225850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_173
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 290
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c94513c9cdc4bea0800000000000000
+      internalID: -5857830948857099834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_174
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 290
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac799d77832fd870800000000000000
+      internalID: 8709719269192596650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 320
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fd91393eb5522c0800000000000000
+      internalID: -4457055223229587636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_176
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a9b507e4bee6670800000000000000
+      internalID: 8534017066038696469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_177
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 128
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faf58368f9d5fa10800000000000000
+      internalID: 1942698475125078773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_178
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 128
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8534d6a922e9a1f0800000000000000
+      internalID: -1033045970984356470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_179
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 128
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9066291840520bb90800000000000000
+      internalID: -7228236700645693943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_180
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 128
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dacd43d1f89cce0800000000000000
+      internalID: -1384418054836015727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_181
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 128
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a7bdef85329e910800000000000000
+      internalID: 1867062385661671987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_182
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 128
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0d78166ae47ca80800000000000000
+      internalID: -8446696099602247440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_183
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 128
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd94637ef582dd50800000000000000
+      internalID: 6760613318540697042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_184
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 128
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71317dea0bf31c2a0800000000000000
+      internalID: -6719019140979944681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_185
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 96
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efedeff2a04ee500800000000000000
+      internalID: 427350083469438952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_186
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 96
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcd45d34613d0150800000000000000
+      internalID: 5840378598364863704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_187
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 96
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2023adb14d0f6b0800000000000000
+      internalID: -5264474748306193741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_188
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 96
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be85767438df917f0800000000000000
+      internalID: -641202731643086613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_189
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 95
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472371b39025fcc50800000000000000
+      internalID: 6687654171268035188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_190
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 64
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651e263ca9a621d50800000000000000
+      internalID: 6706540008043635030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_191
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 67
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06705ccf1a1c80cc0800000000000000
+      internalID: -3744530188683901088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_192
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 68
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7155a6ba06a1050800000000000000
+      internalID: 5772032161768347585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_193
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 66
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1edf9b278d218ea0800000000000000
+      internalID: -5872362380538683877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_194
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 63
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a014136d9d5366ab0800000000000000
+      internalID: -5015261925312741110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_195
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 64
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b668681e6b98baad0800000000000000
+      internalID: -2689904933862996373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_196
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 63
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01eba902d839881e0800000000000000
+      internalID: -2195342583996432880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_197
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 63
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c3957cf1d4b00c0800000000000000
+      internalID: -4608504994799731660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_198
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 63
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18520c3ea5e929b00800000000000000
+      internalID: 833902994222228865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_199
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 31
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1123859cc0c4c60800000000000000
+      internalID: 7803626313233863144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_200
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 37
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ebb41b8b35b8430800000000000000
+      internalID: 3786211964448652882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_201
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 38
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a1710d306106850800000000000000
+      internalID: 6368114078733769254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Critters_202
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 37
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d840d8b750d0ae50800000000000000
+      internalID: 6818678911020320982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Stardew Valley - Animals - Critters_0: -2664439367755212653
+      PC _ Computer - Stardew Valley - Animals - Critters_1: 4500794842932045762
+      PC _ Computer - Stardew Valley - Animals - Critters_10: -8259436544084852503
+      PC _ Computer - Stardew Valley - Animals - Critters_100: -4692820520030485067
+      PC _ Computer - Stardew Valley - Animals - Critters_101: 1443807510765192181
+      PC _ Computer - Stardew Valley - Animals - Critters_102: 5470346081410513573
+      PC _ Computer - Stardew Valley - Animals - Critters_103: 2852240289052558660
+      PC _ Computer - Stardew Valley - Animals - Critters_104: -4094673149690300573
+      PC _ Computer - Stardew Valley - Animals - Critters_105: -2344629092508879883
+      PC _ Computer - Stardew Valley - Animals - Critters_106: 7903127355123399654
+      PC _ Computer - Stardew Valley - Animals - Critters_107: 8927418689950723513
+      PC _ Computer - Stardew Valley - Animals - Critters_108: -535529040483344736
+      PC _ Computer - Stardew Valley - Animals - Critters_109: 3358541967289525205
+      PC _ Computer - Stardew Valley - Animals - Critters_11: 4531085002123699353
+      PC _ Computer - Stardew Valley - Animals - Critters_110: -8784543139107767833
+      PC _ Computer - Stardew Valley - Animals - Critters_111: -3330490468506029534
+      PC _ Computer - Stardew Valley - Animals - Critters_112: -5311936479138913012
+      PC _ Computer - Stardew Valley - Animals - Critters_113: 5932460559336669437
+      PC _ Computer - Stardew Valley - Animals - Critters_114: -6186979336072998794
+      PC _ Computer - Stardew Valley - Animals - Critters_115: -1035999178786620334
+      PC _ Computer - Stardew Valley - Animals - Critters_116: 8983038201102236239
+      PC _ Computer - Stardew Valley - Animals - Critters_117: 477013580197820005
+      PC _ Computer - Stardew Valley - Animals - Critters_118: -7252338091462659262
+      PC _ Computer - Stardew Valley - Animals - Critters_119: 7744285686344955237
+      PC _ Computer - Stardew Valley - Animals - Critters_12: -6848526129344220126
+      PC _ Computer - Stardew Valley - Animals - Critters_120: -4842790860844748412
+      PC _ Computer - Stardew Valley - Animals - Critters_121: 7796586580564022603
+      PC _ Computer - Stardew Valley - Animals - Critters_122: -4855423857709795392
+      PC _ Computer - Stardew Valley - Animals - Critters_123: -2359930482690886470
+      PC _ Computer - Stardew Valley - Animals - Critters_124: -6709227817191725493
+      PC _ Computer - Stardew Valley - Animals - Critters_125: -8779665479901669278
+      PC _ Computer - Stardew Valley - Animals - Critters_126: -3108388496731599937
+      PC _ Computer - Stardew Valley - Animals - Critters_127: -3069958591847974629
+      PC _ Computer - Stardew Valley - Animals - Critters_128: 6160885533735896355
+      PC _ Computer - Stardew Valley - Animals - Critters_129: -8201757888827076666
+      PC _ Computer - Stardew Valley - Animals - Critters_13: 986770639747261540
+      PC _ Computer - Stardew Valley - Animals - Critters_130: -6044634530538547603
+      PC _ Computer - Stardew Valley - Animals - Critters_131: 3906240047695496204
+      PC _ Computer - Stardew Valley - Animals - Critters_132: -6973174729664863409
+      PC _ Computer - Stardew Valley - Animals - Critters_133: 8257017827845124089
+      PC _ Computer - Stardew Valley - Animals - Critters_134: -4454028878974882051
+      PC _ Computer - Stardew Valley - Animals - Critters_135: 28230399759648993
+      PC _ Computer - Stardew Valley - Animals - Critters_136: 5551544093583395573
+      PC _ Computer - Stardew Valley - Animals - Critters_137: 5193264540150916831
+      PC _ Computer - Stardew Valley - Animals - Critters_138: 4533416178447310679
+      PC _ Computer - Stardew Valley - Animals - Critters_139: -1354981890757481469
+      PC _ Computer - Stardew Valley - Animals - Critters_14: -2242336748381823266
+      PC _ Computer - Stardew Valley - Animals - Critters_140: 4301784686034934858
+      PC _ Computer - Stardew Valley - Animals - Critters_141: -8100331794553759754
+      PC _ Computer - Stardew Valley - Animals - Critters_142: -1786685188696945470
+      PC _ Computer - Stardew Valley - Animals - Critters_143: -9165189351304805113
+      PC _ Computer - Stardew Valley - Animals - Critters_144: -4881824281102039102
+      PC _ Computer - Stardew Valley - Animals - Critters_145: -5738709639380270043
+      PC _ Computer - Stardew Valley - Animals - Critters_146: 446138223956715047
+      PC _ Computer - Stardew Valley - Animals - Critters_147: -6340959913869982929
+      PC _ Computer - Stardew Valley - Animals - Critters_148: -8775572093827768944
+      PC _ Computer - Stardew Valley - Animals - Critters_149: -8473088000022740785
+      PC _ Computer - Stardew Valley - Animals - Critters_15: -5328124117167098404
+      PC _ Computer - Stardew Valley - Animals - Critters_150: 4783982161632242976
+      PC _ Computer - Stardew Valley - Animals - Critters_151: -4669156953171786802
+      PC _ Computer - Stardew Valley - Animals - Critters_152: 1100817620790566266
+      PC _ Computer - Stardew Valley - Animals - Critters_153: -8558454712688700728
+      PC _ Computer - Stardew Valley - Animals - Critters_154: -81438264733691690
+      PC _ Computer - Stardew Valley - Animals - Critters_155: 8982933137775434956
+      PC _ Computer - Stardew Valley - Animals - Critters_156: 836713290980039037
+      PC _ Computer - Stardew Valley - Animals - Critters_157: -1912995734083698977
+      PC _ Computer - Stardew Valley - Animals - Critters_158: 4372517017694931451
+      PC _ Computer - Stardew Valley - Animals - Critters_159: -7447227963385653243
+      PC _ Computer - Stardew Valley - Animals - Critters_16: 6455549362216896015
+      PC _ Computer - Stardew Valley - Animals - Critters_160: -3619807232291510443
+      PC _ Computer - Stardew Valley - Animals - Critters_161: -7020464226344108258
+      PC _ Computer - Stardew Valley - Animals - Critters_162: 3025428981484039280
+      PC _ Computer - Stardew Valley - Animals - Critters_163: -5519659072885679430
+      PC _ Computer - Stardew Valley - Animals - Critters_164: -1014522521801747747
+      PC _ Computer - Stardew Valley - Animals - Critters_165: 621172520963813722
+      PC _ Computer - Stardew Valley - Animals - Critters_166: 7737967168741247884
+      PC _ Computer - Stardew Valley - Animals - Critters_167: 6126020133260003119
+      PC _ Computer - Stardew Valley - Animals - Critters_168: -640355458192486750
+      PC _ Computer - Stardew Valley - Animals - Critters_169: 6403226964530334570
+      PC _ Computer - Stardew Valley - Animals - Critters_17: 4652800562622118044
+      PC _ Computer - Stardew Valley - Animals - Critters_170: -5784232223071497431
+      PC _ Computer - Stardew Valley - Animals - Critters_171: -2750149030678219785
+      PC _ Computer - Stardew Valley - Animals - Critters_172: -5112097387879225850
+      PC _ Computer - Stardew Valley - Animals - Critters_173: -5857830948857099834
+      PC _ Computer - Stardew Valley - Animals - Critters_174: 8709719269192596650
+      PC _ Computer - Stardew Valley - Animals - Critters_175: -4457055223229587636
+      PC _ Computer - Stardew Valley - Animals - Critters_176: 8534017066038696469
+      PC _ Computer - Stardew Valley - Animals - Critters_177: 1942698475125078773
+      PC _ Computer - Stardew Valley - Animals - Critters_178: -1033045970984356470
+      PC _ Computer - Stardew Valley - Animals - Critters_179: -7228236700645693943
+      PC _ Computer - Stardew Valley - Animals - Critters_18: -1283237917104718122
+      PC _ Computer - Stardew Valley - Animals - Critters_180: -1384418054836015727
+      PC _ Computer - Stardew Valley - Animals - Critters_181: 1867062385661671987
+      PC _ Computer - Stardew Valley - Animals - Critters_182: -8446696099602247440
+      PC _ Computer - Stardew Valley - Animals - Critters_183: 6760613318540697042
+      PC _ Computer - Stardew Valley - Animals - Critters_184: -6719019140979944681
+      PC _ Computer - Stardew Valley - Animals - Critters_185: 427350083469438952
+      PC _ Computer - Stardew Valley - Animals - Critters_186: 5840378598364863704
+      PC _ Computer - Stardew Valley - Animals - Critters_187: -5264474748306193741
+      PC _ Computer - Stardew Valley - Animals - Critters_188: -641202731643086613
+      PC _ Computer - Stardew Valley - Animals - Critters_189: 6687654171268035188
+      PC _ Computer - Stardew Valley - Animals - Critters_19: 6095702596661185665
+      PC _ Computer - Stardew Valley - Animals - Critters_190: 6706540008043635030
+      PC _ Computer - Stardew Valley - Animals - Critters_191: -3744530188683901088
+      PC _ Computer - Stardew Valley - Animals - Critters_192: 5772032161768347585
+      PC _ Computer - Stardew Valley - Animals - Critters_193: -5872362380538683877
+      PC _ Computer - Stardew Valley - Animals - Critters_194: -5015261925312741110
+      PC _ Computer - Stardew Valley - Animals - Critters_195: -2689904933862996373
+      PC _ Computer - Stardew Valley - Animals - Critters_196: -2195342583996432880
+      PC _ Computer - Stardew Valley - Animals - Critters_197: -4608504994799731660
+      PC _ Computer - Stardew Valley - Animals - Critters_198: 833902994222228865
+      PC _ Computer - Stardew Valley - Animals - Critters_199: 7803626313233863144
+      PC _ Computer - Stardew Valley - Animals - Critters_2: -526499413444109965
+      PC _ Computer - Stardew Valley - Animals - Critters_20: 4794496753366267701
+      PC _ Computer - Stardew Valley - Animals - Critters_200: 3786211964448652882
+      PC _ Computer - Stardew Valley - Animals - Critters_201: 6368114078733769254
+      PC _ Computer - Stardew Valley - Animals - Critters_202: 6818678911020320982
+      PC _ Computer - Stardew Valley - Animals - Critters_21: -1916501106416574764
+      PC _ Computer - Stardew Valley - Animals - Critters_22: -6809427757620398811
+      PC _ Computer - Stardew Valley - Animals - Critters_23: 7637826095687363064
+      PC _ Computer - Stardew Valley - Animals - Critters_24: -6956340336102845608
+      PC _ Computer - Stardew Valley - Animals - Critters_25: -7799525501772290849
+      PC _ Computer - Stardew Valley - Animals - Critters_26: 5663283158919507504
+      PC _ Computer - Stardew Valley - Animals - Critters_27: -7582219067313328777
+      PC _ Computer - Stardew Valley - Animals - Critters_28: -7015297687926624899
+      PC _ Computer - Stardew Valley - Animals - Critters_29: 9023664709135183694
+      PC _ Computer - Stardew Valley - Animals - Critters_3: -5644112277155659993
+      PC _ Computer - Stardew Valley - Animals - Critters_30: 1424443990902179678
+      PC _ Computer - Stardew Valley - Animals - Critters_31: -4510998722785473159
+      PC _ Computer - Stardew Valley - Animals - Critters_32: 4176955570392571823
+      PC _ Computer - Stardew Valley - Animals - Critters_33: 4453061634637519783
+      PC _ Computer - Stardew Valley - Animals - Critters_34: -3202958299758011164
+      PC _ Computer - Stardew Valley - Animals - Critters_35: 4031090149429943688
+      PC _ Computer - Stardew Valley - Animals - Critters_36: -7828522767895050121
+      PC _ Computer - Stardew Valley - Animals - Critters_37: 6728128845531597274
+      PC _ Computer - Stardew Valley - Animals - Critters_38: 4932458630884399901
+      PC _ Computer - Stardew Valley - Animals - Critters_39: 836650534687527930
+      PC _ Computer - Stardew Valley - Animals - Critters_4: -6829842628753542221
+      PC _ Computer - Stardew Valley - Animals - Critters_40: -5947946213112860789
+      PC _ Computer - Stardew Valley - Animals - Critters_41: -6558861530434571019
+      PC _ Computer - Stardew Valley - Animals - Critters_42: 6088831981902804319
+      PC _ Computer - Stardew Valley - Animals - Critters_43: 5469457420794756633
+      PC _ Computer - Stardew Valley - Animals - Critters_44: -3406869896159414341
+      PC _ Computer - Stardew Valley - Animals - Critters_45: -6554225460897983501
+      PC _ Computer - Stardew Valley - Animals - Critters_46: -523580277593532944
+      PC _ Computer - Stardew Valley - Animals - Critters_47: 5626622556757739669
+      PC _ Computer - Stardew Valley - Animals - Critters_48: 9212487099886202325
+      PC _ Computer - Stardew Valley - Animals - Critters_49: -6239928324997214194
+      PC _ Computer - Stardew Valley - Animals - Critters_5: -891707907715625566
+      PC _ Computer - Stardew Valley - Animals - Critters_50: -3086852158173334578
+      PC _ Computer - Stardew Valley - Animals - Critters_51: 8221803974877540748
+      PC _ Computer - Stardew Valley - Animals - Critters_52: 4375834182427991674
+      PC _ Computer - Stardew Valley - Animals - Critters_53: -1391405909220372820
+      PC _ Computer - Stardew Valley - Animals - Critters_54: -3569787874354223861
+      PC _ Computer - Stardew Valley - Animals - Critters_55: -1872831316283942522
+      PC _ Computer - Stardew Valley - Animals - Critters_56: -1384820018428168397
+      PC _ Computer - Stardew Valley - Animals - Critters_57: -5374172777280292117
+      PC _ Computer - Stardew Valley - Animals - Critters_58: -514484708353174984
+      PC _ Computer - Stardew Valley - Animals - Critters_59: -7175141252109592052
+      PC _ Computer - Stardew Valley - Animals - Critters_6: 1434479565506932055
+      PC _ Computer - Stardew Valley - Animals - Critters_60: 5130161334930721225
+      PC _ Computer - Stardew Valley - Animals - Critters_61: 2121871135615241335
+      PC _ Computer - Stardew Valley - Animals - Critters_62: -7735096938878184945
+      PC _ Computer - Stardew Valley - Animals - Critters_63: -4483389016447991636
+      PC _ Computer - Stardew Valley - Animals - Critters_64: 402910265512433198
+      PC _ Computer - Stardew Valley - Animals - Critters_65: -7178725607399156031
+      PC _ Computer - Stardew Valley - Animals - Critters_66: -2345203885152703683
+      PC _ Computer - Stardew Valley - Animals - Critters_67: -1500645849331113719
+      PC _ Computer - Stardew Valley - Animals - Critters_68: 4667513852991009571
+      PC _ Computer - Stardew Valley - Animals - Critters_69: 5940760032894167685
+      PC _ Computer - Stardew Valley - Animals - Critters_7: 6910208308072629485
+      PC _ Computer - Stardew Valley - Animals - Critters_70: -6062240781172741293
+      PC _ Computer - Stardew Valley - Animals - Critters_71: -3852911054041110974
+      PC _ Computer - Stardew Valley - Animals - Critters_72: -5559352555947802095
+      PC _ Computer - Stardew Valley - Animals - Critters_73: -5100204154250408158
+      PC _ Computer - Stardew Valley - Animals - Critters_74: -7471716767985823078
+      PC _ Computer - Stardew Valley - Animals - Critters_75: -2748985783034004852
+      PC _ Computer - Stardew Valley - Animals - Critters_76: 6088953079444206284
+      PC _ Computer - Stardew Valley - Animals - Critters_77: 439624832043617683
+      PC _ Computer - Stardew Valley - Animals - Critters_78: -4931783930708810321
+      PC _ Computer - Stardew Valley - Animals - Critters_79: -8965608464308331460
+      PC _ Computer - Stardew Valley - Animals - Critters_8: 6340887340882290365
+      PC _ Computer - Stardew Valley - Animals - Critters_80: 2719118537236685430
+      PC _ Computer - Stardew Valley - Animals - Critters_81: -2354060540397316969
+      PC _ Computer - Stardew Valley - Animals - Critters_82: -8766532393291732208
+      PC _ Computer - Stardew Valley - Animals - Critters_83: 6117391450449055359
+      PC _ Computer - Stardew Valley - Animals - Critters_84: 8495741632916872935
+      PC _ Computer - Stardew Valley - Animals - Critters_85: 8903966751334314052
+      PC _ Computer - Stardew Valley - Animals - Critters_86: -421107511977796027
+      PC _ Computer - Stardew Valley - Animals - Critters_87: 6889780931936940420
+      PC _ Computer - Stardew Valley - Animals - Critters_88: 6077268408412702720
+      PC _ Computer - Stardew Valley - Animals - Critters_89: 4646332200533095031
+      PC _ Computer - Stardew Valley - Animals - Critters_9: -5466110228561287343
+      PC _ Computer - Stardew Valley - Animals - Critters_90: -4602518861570274681
+      PC _ Computer - Stardew Valley - Animals - Critters_91: 5232549910975691587
+      PC _ Computer - Stardew Valley - Animals - Critters_92: 549950758243874711
+      PC _ Computer - Stardew Valley - Animals - Critters_93: 1821650447928104401
+      PC _ Computer - Stardew Valley - Animals - Critters_94: 5721676416274387552
+      PC _ Computer - Stardew Valley - Animals - Critters_95: -3323849090894944347
+      PC _ Computer - Stardew Valley - Animals - Critters_96: -1878201155250860728
+      PC _ Computer - Stardew Valley - Animals - Critters_97: -8379449932959001022
+      PC _ Computer - Stardew Valley - Animals - Critters_98: -6642547071629268323
+      PC _ Computer - Stardew Valley - Animals - Critters_99: 3013234142086225603
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
